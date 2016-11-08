@@ -6,5 +6,6 @@
 
 Based on the information found in the [Federal Bureau of Prison Statistics] (https://www.bop.gov/about/statistics/statistics_inmate_race.jsp)
 
+And also, based on this visualization: https://www.youtube.com/watch?v=u51_pzax4M0
 I would like to visualize the following:
 - Incarceration rates increase after 1975 and until now. Visual reference:
