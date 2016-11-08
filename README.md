@@ -2,7 +2,7 @@
 
 ###This is a sketch of what I want my final project to be like. 
 
-**TOPIC: Incarceration is tied to poverty and ethnicity in the US**
+**TOPIC: Incarceration is tied to poverty and ethnicity in the US** I want to call it UNHEARD
 
 Based on the information found in the [Federal Bureau of Prison Statistics] (https://www.bop.gov/about/statistics/statistics_inmate_race.jsp)
 
