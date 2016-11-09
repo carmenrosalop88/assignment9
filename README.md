@@ -8,7 +8,7 @@ Based on the information found in the [Federal Bureau of Prison Statistics] (htt
 
 And also, based on this visualization: https://www.youtube.com/watch?v=u51_pzax4M0
 
-Map: http://trends.vera.org/incarceration-rates?year=1983
+Map: http://trends.vera.org/incarceration-rates?year=1983 and http://trends.vera.org/about
 I would like to visualize the following:
 
 I want to visualize information about incarceration and add stories, pictures, quotes, a brief summary and keywords of interviews of people who I have met with and have shared their story with me. 
